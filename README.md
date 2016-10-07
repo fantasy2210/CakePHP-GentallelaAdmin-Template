@@ -1,0 +1,1 @@
+# CakePHP-GentallelaAdmin-Template
