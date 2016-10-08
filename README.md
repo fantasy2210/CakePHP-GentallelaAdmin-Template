@@ -1,7 +1,9 @@
 # CakePHP-GentallelaAdmin-Template
-This template covered <a href="https://github.com/puikinsh/gentelella">GentallelaAdmin</a> to CakePHP 2.x template.
+Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>
+This template is covered <a href="https://github.com/puikinsh/gentelella">GentallelaAdmin</a> to use in CakePHP 2.x template by Toan Nguyen
 
 #Install
+
 Download and extract to app/View/Themed/GentallelaAdminTemplate
 
 #Using:
