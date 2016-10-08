@@ -14,8 +14,11 @@ Download and extract to app/View/Themed/GentallelaAdminTemplate
 In AppController.php, add line:<br/><br/>
 <code>
 class AppController extends Controller {
+//other code here
 
     public $theme = 'GentallelaAdminTemplate';
+
+//other code here
 }
 </code>
 
@@ -24,7 +27,11 @@ class AppController extends Controller {
 <code>
 class UserController extends Controller {
 
+    //other code here
+
     public $theme = 'GentallelaAdminTemplate';
+
+    //other code here
 }
 </code>
 
