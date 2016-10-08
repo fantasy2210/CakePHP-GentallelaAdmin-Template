@@ -2,7 +2,7 @@
 
 Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>
 
-This template is covered <a href="https://github.com/puikinsh/gentelella">GentallelaAdmin</a> to use in CakePHP 2.x projects by Toan Nguyen
+The <a href="https://github.com/puikinsh/gentelella">GentallelaAdmin</a> is changed into this Template in order to use in CakePHP 2.x projects by Toan Nguyen
 
 #Installation
 
@@ -22,7 +22,7 @@ class AppController extends Controller {
 }
 </code>
 
-#Case 2: Using in the Specifically controller:
+#Case 2: Using in the specific controller:
 
 <code>
 class UserController extends Controller {
